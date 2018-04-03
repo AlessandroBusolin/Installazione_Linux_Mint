@@ -1,0 +1,31 @@
+Aggiornamenti
+
+Installare cursore Alessandro
+
+sudo apt-get install build-essential
+
+sudo apt-get install openjdk-8-jdk
+
+sudo apt-get install git
+
+sudo apt-get install gnuplot
+
+sudo apt-get install idle
+
+sudo apt-get install idle3
+
+sudo apt-get install texlive-full
+
+sudo apt-get install biber
+
+sudo apt-get install texmaker
+
+Installa Chrome
+
+Installa IntelliJ
+
+################################################################################
+
+sudo mv fonts /usr/share/fonts/truetype
+
+sudo fc-cache -fv
