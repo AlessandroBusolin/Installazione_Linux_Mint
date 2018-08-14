@@ -10,18 +10,8 @@ sudo apt-get install git
 
 sudo apt-get install gnuplot
 
-sudo apt-get install idle
-
-sudo apt-get install idle3
-
 sudo apt-get install texlive-full
 
 sudo apt-get install biber
 
 sudo apt-get install texmaker
-
-################################################################################
-
-sudo mv fonts /usr/share/fonts/truetype
-
-sudo fc-cache -fv
