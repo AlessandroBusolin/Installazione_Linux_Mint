@@ -1,6 +1,6 @@
-Aggiornamenti
+# Do the updates.
 
-Installare cursore Alessandro
+# Install my cursor
 
 sudo apt-get install build-essential
 
