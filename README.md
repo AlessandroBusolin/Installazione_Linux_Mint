@@ -1,2 +1,2 @@
-# Installazione_Linux_Mint
-Lista delle operazioni da fare durante l'installazione.
+# Installation_Linux_Mint
+List of useful instructions to be launched during the installation phase.
