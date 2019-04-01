@@ -12,11 +12,11 @@ sudo apt-get install gnuplot
 
 sudo apt-get install texlive-full
 
-// sudo apt-get install biber --On Linux Mint is installed automatically with texlive-full--
+# sudo apt-get install biber --On Linux Mint is installed automatically with texlive-full--
 
 sudo apt-get install texmaker
 
-// Install package referred to Android-tools
+# Install package referred to Android-tools
 
 sudo apt-get install android-tools-adb
 
