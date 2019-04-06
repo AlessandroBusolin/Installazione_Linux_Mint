@@ -21,3 +21,7 @@ sudo apt-get install texmaker
 sudo apt-get install android-tools-adb
 
 sudo apt-get install android-tools-fastboot
+
+# Install reader for chm
+
+sudo apt-get install xchm
