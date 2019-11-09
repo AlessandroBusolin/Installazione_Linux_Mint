@@ -4,6 +4,8 @@
 
 sudo apt-get install build-essential
 
+sudo apt-get install tlp tlp-rdw
+
 sudo apt-get install openjdk-8-jdk
 
 sudo apt-get install git/ or install GitKraken
